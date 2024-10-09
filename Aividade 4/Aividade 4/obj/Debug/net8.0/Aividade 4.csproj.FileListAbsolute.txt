@@ -1,0 +1,14 @@
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade introdução\Aividade 4\Aividade 4\bin\Debug\net8.0\Aividade 4.exe
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade introdução\Aividade 4\Aividade 4\bin\Debug\net8.0\Aividade 4.deps.json
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade introdução\Aividade 4\Aividade 4\bin\Debug\net8.0\Aividade 4.runtimeconfig.json
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade introdução\Aividade 4\Aividade 4\bin\Debug\net8.0\Aividade 4.dll
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade introdução\Aividade 4\Aividade 4\bin\Debug\net8.0\Aividade 4.pdb
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade introdução\Aividade 4\Aividade 4\obj\Debug\net8.0\Aividade 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade introdução\Aividade 4\Aividade 4\obj\Debug\net8.0\Aividade 4.AssemblyInfoInputs.cache
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade introdução\Aividade 4\Aividade 4\obj\Debug\net8.0\Aividade 4.AssemblyInfo.cs
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade introdução\Aividade 4\Aividade 4\obj\Debug\net8.0\Aividade 4.csproj.CoreCompileInputs.cache
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade introdução\Aividade 4\Aividade 4\obj\Debug\net8.0\Aividade 4.dll
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade introdução\Aividade 4\Aividade 4\obj\Debug\net8.0\refint\Aividade 4.dll
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade introdução\Aividade 4\Aividade 4\obj\Debug\net8.0\Aividade 4.pdb
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade introdução\Aividade 4\Aividade 4\obj\Debug\net8.0\Aividade 4.genruntimeconfig.cache
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade introdução\Aividade 4\Aividade 4\obj\Debug\net8.0\ref\Aividade 4.dll

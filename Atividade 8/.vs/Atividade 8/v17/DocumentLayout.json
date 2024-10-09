@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI2EM\\Desktop\\Repositorio visual\\Introdu\u00E7\u00E3o-C#\\Atividade introdu\u00E7\u00E3o\\Atividade 8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C80793E6-79D3-45A6-AAAC-934D1CC0BB6C}|Atividade 8\\Atividade 8.csproj|c:\\users\\senai2em\\desktop\\repositorio visual\\introdu\u00E7\u00E3o-c#\\atividade introdu\u00E7\u00E3o\\atividade 8\\atividade 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80793E6-79D3-45A6-AAAC-934D1CC0BB6C}|Atividade 8\\Atividade 8.csproj|solutionrelative:atividade 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI2EM\\Desktop\\Repositorio visual\\Introdu\u00E7\u00E3o-C#\\Atividade introdu\u00E7\u00E3o\\Atividade 8\\Atividade 8\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade 8\\Program.cs",
+              "ToolTip": "C:\\Users\\SENAI2EM\\Desktop\\Repositorio visual\\Introdu\u00E7\u00E3o-C#\\Atividade introdu\u00E7\u00E3o\\Atividade 8\\Atividade 8\\Program.cs",
+              "RelativeToolTip": "Atividade 8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:10:08.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
